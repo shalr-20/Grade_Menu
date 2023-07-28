@@ -5,7 +5,9 @@ The Grade Menu is a Java programme that calculates grades based on marks. It pro
 ## **Features**
 
 **Proceed or Exit:** Users can input the numbers, 1- To enter marks, and 0- To exit.
+
 **Takes marks:** Users can input the marks they want to know the grade of.
+
 **Grade:** Users can view the grade generated on the screen.
 ____________________________________________________________________________________________________________________________________________________________________
 
